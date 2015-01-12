@@ -1,0 +1,9 @@
+[submodule "O2OMobile_Android"]
+	path = O2OMobile_Android
+	url = https://GeekZooStudio@github.com/GeekZooStudio/O2OMobile_Android.git
+[submodule "O2OMobile_IOS"]
+	path = O2OMobile_IOS
+	url = https://GeekZooStudio@github.com/GeekZooStudio/O2OMobile_IOS.git
+[submodule "O2OMobile_PHP"]
+	path = O2OMobile_PHP
+	url = https://GeekZooStudio@github.com/GeekZooStudio/O2OMobile_PHP.git
